@@ -13,7 +13,7 @@ const About = () => {
                     I also have beginner-level knowledge in data engineering, including experience with data pipelines, Apache Airflow, and Mage AI orchestration tool.
                 </p>
                 <p className="text-lg">
-                    In addition to my analytical skills, I'm proficient in SQL, experienced with databases like SQL Server and ClickHouse,
+                    In addition to my analytical skills, I&apos;m proficient in SQL, experienced with databases like SQL Server and ClickHouse,
                     and comfortable working with tools such as DBeaver and SSMS. I also have knowledge of Docker, Linux (Ubuntu), and web technologies like HTML, CSS, JavaScript, and React.js.
                 </p>
             </div>
